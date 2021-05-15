@@ -1,0 +1,7 @@
+[01-Jul-2020 09:24:53 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/primewe1/public_html/saromc.com/gold/vendor/ramsey/uuid/src/functions.php on line 34
+[01-Jul-2020 09:25:02 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/primewe1/public_html/saromc.com/gold/vendor/ramsey/uuid/src/functions.php on line 34
+[01-Jul-2020 09:25:53 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/primewe1/public_html/saromc.com/gold/vendor/ramsey/uuid/src/functions.php on line 34
+[01-Jul-2020 09:28:41 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/primewe1/public_html/saromc.com/gold/public/index.php on line 52
+[01-Jul-2020 09:28:59 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/primewe1/public_html/saromc.com/gold/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[01-Jul-2020 09:29:15 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/primewe1/public_html/saromc.com/gold/vendor/ramsey/uuid/src/functions.php on line 34
+[01-Jul-2020 09:30:36 UTC] PHP Fatal error:  Declaration of Carbon\Translator::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/primewe1/public_html/saromc.com/gold/vendor/nesbot/carbon/src/Carbon/Translator.php on line 18

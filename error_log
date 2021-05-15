@@ -1,0 +1,10 @@
+[18-Nov-2020 07:33:48 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\AdminController::postAddService() in /home/primewe1/public_html/saromc.com/diagno/app/Http/Controllers/AdminController.php on line 188
+[09-Dec-2020 07:26:59 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Input as Input because the name is already in use in /home/primewe1/public_html/saromc.com/diagno/app/Http/Controllers/FrontControler.php on line 7
+[09-Dec-2020 07:28:30 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 119541760 bytes) in /home/primewe1/public_html/saromc.com/diagno/app/Http/Controllers/FrontControler.php on line 290
+[09-Dec-2020 07:32:19 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 119541760 bytes) in /home/primewe1/public_html/saromc.com/diagno/app/Http/Controllers/FrontControler.php on line 290
+[11-Dec-2020 12:22:22 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\AdminController::orderDelete() in /home/primewe1/public_html/saromc.com/diagno/app/Http/Controllers/AdminController.php on line 965
+[14-Dec-2020 10:22:27 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/primewe1/public_html/saromc.com/diagno/about.php on line 1
+[14-Dec-2020 10:22:27 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/primewe1/public_html/saromc.com/diagno/about.php on line 1
+[14-Dec-2020 10:22:27 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/primewe1/public_html/saromc.com/diagno/about.php on line 284
+[14-Dec-2020 10:22:27 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/primewe1/public_html/saromc.com/diagno/about.php on line 284
+[16-Dec-2020 06:31:50 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\AdminController::postAddBlog() in /home/primewe1/public_html/saromc.com/diagno/app/Http/Controllers/AdminController.php on line 1309
